@@ -1,4 +1,4 @@
-# 🧑‍🤝‍🧑 Personality Prediction App
+# Personality Prediction App
 
 This project is an end-to-end machine learning application that predicts whether a person is an **Introvert** or an **Extrovert** based on their responses to a set of behavioral questions.  
 It includes **data cleaning, model training, and a Streamlit-powered web app** for real-time predictions.  
@@ -13,7 +13,7 @@ It includes **data cleaning, model training, and a Streamlit-powered web app** f
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Data & ML**: pandas, scikit-learn, xgboost  
 - **Web Framework**: streamlit  
 - **Plotting**: matplotlib, seaborn  
